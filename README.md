@@ -1,3 +1,11 @@
+# Edit: IMPORTANT
+
+These are a few code snippets from a project I had to do. A description is in the original readme below. 
+This was the first project that went a little bit overboard, I did not fix requirements at the beginning of it and demands were rather dynamically raised, hence the chaotic structure in a few files. This was the trigger that **made me review SW architecture**. 
+
+Originally I did write a GUI, but it turned out that this was meant to run a Linux server, so I canceled that.
+I deleted the main scripts and the results of course. 
+
 # 1. Introduction
 
 # 1.1. Preface
